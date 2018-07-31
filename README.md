@@ -43,3 +43,7 @@ Results will be stored in a results.txt file with lines listing the number of pa
 * __WASD:__ Move Camera
 
 * __Mouse Movement:__ Change Pitch and Yaw
+
+## Citations
+* OpenGL code based on [Newcastle University Graphics Framework](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/)
+* Vulkan code based on [Vulkan Tutorial](https://vulkan-tutorial.com/)
